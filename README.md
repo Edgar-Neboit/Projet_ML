@@ -1,7 +1,6 @@
 # Projet_ML
 ## ⚠️Objectifs : 
-<span style="color: red">** Il y a deux objectifs principales pour ce projet :  
- Le première objectif est de faire une analyse exploratoire des données pour bien cerner nos données. Dans un second temps, on effectuera deux modélisations avec la prédiction de calories brulées et du niveau d'expérience.**</span>
+<span style="color: red">**Il y a deux objectifs principales pour ce projet :  Le premier objectif est de faire une analyse exploratoire des données pour bien cerner nos données. Dans un second temps, on effectuera deux modélisations avec la prédiction de calories brulées et du niveau d'expérience.**</span>
 
 ## Table des matières
 1. [Analyse explorative des données (langage R)](#analyse-données)
